@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "55fbf21e7766c366",
@@ -191,8 +191,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "477877d57dcaee27",
+  "active": "81803790018bea35",
   "lastOpenFiles": [
+    "token_git",
     "Git/Первичная настройка Git.md",
     "Git/Работа в Git.md",
     "Задачи.md",
@@ -224,7 +225,6 @@
     "з",
     "DBeaver/Горячие клавиши DBeaver.md",
     "SQL/тренажеры SQL нетология.md",
-    "Linux/Руководство по Debian.md",
     "DBeaver",
     "Без названия.canvas",
     "SQL",
