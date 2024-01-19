@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 265.5
   },
   "right": {
     "id": "55fbf21e7766c366",
@@ -191,8 +191,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "81803790018bea35",
+  "active": "477877d57dcaee27",
   "lastOpenFiles": [
+    "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
     "token_git",
     "Git/Первичная настройка Git.md",
     "Git/Работа в Git.md",
@@ -209,7 +210,6 @@
     "SQL/SQL разное.md",
     "PostgreSQL/Создание базы данных через консоль.md",
     "PostgreSQL/Команды psql.md",
-    "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
     "SQL/Создание таблиц.md",
     "PostgreSQL/Загрузка тестовой базы данных.md",
     "SQL/JOIN-запросы.md",
@@ -228,7 +228,6 @@
     "DBeaver",
     "Без названия.canvas",
     "SQL",
-    "PostgreSQL",
-    "Linux"
+    "PostgreSQL"
   ]
 }
