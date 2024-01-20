@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "586c073195f25f01",
+        "id": "44fe95248adfa505",
         "type": "tabs",
         "children": [
           {
-            "id": "68552025af2e90fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c4f3c52aec0d484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/База данных  для музыкального приложения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1627599f32ede8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "477877d57dcaee27",
+            "id": "a6a62d97a6246287",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 262.5
   },
   "right": {
     "id": "55fbf21e7766c366",
@@ -191,21 +154,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "477877d57dcaee27",
+  "active": "a6a62d97a6246287",
   "lastOpenFiles": [
+    "Руководство по обсидиан.md",
+    "Задачи.md",
+    "Домашка 3 по.md",
+    "Git/Работа в Git.md",
     "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
+    "SQL/База данных  для музыкального приложения.md",
     "token_git",
     "Git/Первичная настройка Git.md",
-    "Git/Работа в Git.md",
-    "Задачи.md",
     "Git",
     "Linux/deb. пакеты.md",
     "Linux/Команды Linux.md",
     "Linux/Как изменить текстовый редактор по умолчанию в Ubuntu.md",
-    "Домашка 3 по.md",
     "miscelaneous/test.md",
-    "Руководство по обсидиан.md",
-    "SQL/База данных  для музыкального приложения.md",
     "SQL/Манипуляции данными в таблицах (DML).md",
     "SQL/SQL разное.md",
     "PostgreSQL/Создание базы данных через консоль.md",
