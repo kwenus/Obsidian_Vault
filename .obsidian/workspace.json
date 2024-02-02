@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "44fe95248adfa505",
+        "id": "f956404acc25bade",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a62d97a6246287",
+            "id": "84430a9e17972c71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Работа в Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Работа в Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Работа в Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/Работа в Git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,19 +146,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a6a62d97a6246287",
+  "active": "84430a9e17972c71",
   "lastOpenFiles": [
+    "Linux/Команды Linux.md",
+    "Монтирование дисков.md",
+    "Git/Работа в Git.md",
     "Руководство по обсидиан.md",
     "Задачи.md",
     "Домашка 3 по.md",
-    "Git/Работа в Git.md",
     "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
     "SQL/База данных  для музыкального приложения.md",
     "token_git",
     "Git/Первичная настройка Git.md",
     "Git",
     "Linux/deb. пакеты.md",
-    "Linux/Команды Linux.md",
     "Linux/Как изменить текстовый редактор по умолчанию в Ubuntu.md",
     "miscelaneous/test.md",
     "SQL/Манипуляции данными в таблицах (DML).md",
