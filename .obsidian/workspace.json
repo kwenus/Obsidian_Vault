@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Домашка 3 по SQL.md",
+                "file": "SQL/SELECT-запросы к базе музыкального приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Домашка 3 по SQL.md",
+                "file": "SQL/SELECT-запросы к базе музыкального приложения.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Домашка 3 по SQL.md",
+                "file": "SQL/SELECT-запросы к базе музыкального приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Домашка 3 по SQL.md"
+                "file": "SQL/SELECT-запросы к базе музыкального приложения.md"
               }
             }
           }
@@ -154,11 +154,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "81803790018bea35",
+  "active": "84430a9e17972c71",
   "lastOpenFiles": [
+    "SQL/SQL разное.md",
+    "SQL/SELECT-запросы к базе музыкального приложения.md",
     "Задачи.md",
     "Linux/Монтирование дисков.md",
-    "SQL/Домашка 3 по SQL.md",
     "Linux/deb. пакеты.md",
     "Linux/Команды Linux.md",
     "Git/Работа в Git.md",
@@ -171,7 +172,6 @@
     "Linux/Как изменить текстовый редактор по умолчанию в Ubuntu.md",
     "miscelaneous/test.md",
     "SQL/Манипуляции данными в таблицах (DML).md",
-    "SQL/SQL разное.md",
     "PostgreSQL/Создание базы данных через консоль.md",
     "PostgreSQL/Команды psql.md",
     "SQL/Создание таблиц.md",
