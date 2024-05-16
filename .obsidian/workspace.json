@@ -11,8 +11,12 @@
             "id": "84430a9e17972c71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Домашка 3 по SQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -71,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "right": {
     "id": "55fbf21e7766c366",
@@ -87,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL/Домашка 3 по SQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL/Домашка 3 по SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL/Домашка 3 по SQL.md"
+              }
             }
           }
         ],
@@ -132,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,20 +154,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "84430a9e17972c71",
+  "active": "81803790018bea35",
   "lastOpenFiles": [
+    "Задачи.md",
+    "Linux/Монтирование дисков.md",
+    "SQL/Домашка 3 по SQL.md",
+    "Linux/deb. пакеты.md",
     "Linux/Команды Linux.md",
-    "Монтирование дисков.md",
     "Git/Работа в Git.md",
     "Руководство по обсидиан.md",
-    "Задачи.md",
-    "Домашка 3 по.md",
     "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
     "SQL/База данных  для музыкального приложения.md",
     "token_git",
     "Git/Первичная настройка Git.md",
     "Git",
-    "Linux/deb. пакеты.md",
     "Linux/Как изменить текстовый редактор по умолчанию в Ubuntu.md",
     "miscelaneous/test.md",
     "SQL/Манипуляции данными в таблицах (DML).md",
