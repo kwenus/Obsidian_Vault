@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SELECT-запросы к базе музыкального приложения.md",
+                "file": "SQL/Домашка - запросы к базе музыкального приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SELECT-запросы к базе музыкального приложения.md",
+                "file": "SQL/Домашка - запросы к базе музыкального приложения.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SELECT-запросы к базе музыкального приложения.md",
+                "file": "SQL/Домашка - запросы к базе музыкального приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SELECT-запросы к базе музыкального приложения.md"
+                "file": "SQL/Домашка - запросы к базе музыкального приложения.md"
               }
             }
           }
@@ -156,42 +156,42 @@
   },
   "active": "84430a9e17972c71",
   "lastOpenFiles": [
+    "Работа с разными форматами данных.md",
+    "Beautiful Soup.md",
+    "Anaconda/Начало работы.md",
+    "Anaconda",
+    "Bash/Разное.md",
+    "Bash",
+    "Python/Модули/Datetime.md",
+    "Python/Модули",
+    "Python/Открытие ссылок.md",
+    "Python/Создание виртуальной среды.md",
+    "Python",
+    "join_requests",
+    "SQL/Select-запросы (DML) часть_2.md",
+    "SQL/Домашка - запросы к базе музыкального приложения.md",
     "SQL/SQL разное.md",
-    "SQL/SELECT-запросы к базе музыкального приложения.md",
+    "SQL/База данных  для музыкального приложения.md",
+    "SQL/Манипуляции данными в таблицах (DML).md",
+    "SQL/Типы запросов в SQL.md",
+    "SQL/тренажеры SQL нетология.md",
+    "SQL/Управление таблицами (DDL).md",
+    "SQL/Select-запросы (DML) часть_1.md",
+    "SQL/JOIN-запросы.md",
+    "SQL/Cвязи между таблицами (книжный магазин).md",
     "Задачи.md",
+    "SQL/Создание таблиц.md",
     "Linux/Монтирование дисков.md",
     "Linux/deb. пакеты.md",
     "Linux/Команды Linux.md",
     "Git/Работа в Git.md",
     "Руководство по обсидиан.md",
     "PostgreSQL/Как установить PostgreSQL и pgAdmin4 в Ubuntu 20.04.md",
-    "SQL/База данных  для музыкального приложения.md",
     "token_git",
-    "Git/Первичная настройка Git.md",
     "Git",
-    "Linux/Как изменить текстовый редактор по умолчанию в Ubuntu.md",
-    "miscelaneous/test.md",
-    "SQL/Манипуляции данными в таблицах (DML).md",
-    "PostgreSQL/Создание базы данных через консоль.md",
-    "PostgreSQL/Команды psql.md",
-    "SQL/Создание таблиц.md",
-    "PostgreSQL/Загрузка тестовой базы данных.md",
-    "SQL/JOIN-запросы.md",
-    "SQL/Select-запросы (DML) часть_2.md",
-    "SQL/Управление таблицами (DDL).md",
-    "SQL/Select-запросы (DML) часть_1.md",
-    "SQL/Типы запросов в SQL.md",
-    "join_requests",
-    "з/home/kwenus/Снимки экрана/запросы JOIN.md",
     "з/home/kwenus/Снимки экрана",
     "з/home/kwenus",
     "з/home",
-    "з",
-    "DBeaver/Горячие клавиши DBeaver.md",
-    "SQL/тренажеры SQL нетология.md",
-    "DBeaver",
-    "Без названия.canvas",
-    "SQL",
-    "PostgreSQL"
+    "Без названия.canvas"
   ]
 }
