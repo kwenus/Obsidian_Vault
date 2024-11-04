@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "theme": "obsidian"
+  "accentColor": "#8af55c",
+  "theme": "moonstone",
+  "cssTheme": "Prism",
+  "baseFontSizeAction": false
 }
