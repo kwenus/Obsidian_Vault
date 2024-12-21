@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "322438dd41ed5a52",
+        "id": "1d1fa72006fff0e9",
         "type": "tabs",
         "children": [
           {
-            "id": "1f4403d993b10eb9",
+            "id": "c6152b08d0895428",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Первичная настройка Git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Первичная настройка Git"
+              "title": "New tab"
             }
           }
         ]
@@ -173,8 +169,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "81803790018bea35",
+  "active": "c6152b08d0895428",
   "lastOpenFiles": [
+    "Git/Первичная настройка Git.md",
+    "JavaScript intro.md",
     "JavaScript",
     "Pascal/2. Выражения, переменные, операторы..md",
     "Работа с разными форматами данных.md",
@@ -208,9 +206,7 @@
     "Python/Создание виртуальной среды.md",
     "Python",
     "join_requests",
-    "SQL/Select-запросы (DML) часть_2.md",
     "token_git",
-    "Git",
     "Без названия.canvas"
   ]
 }
