@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pascal/2. Выражения, переменные, операторы..md",
+                "file": "Git/Первичная настройка Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Выражения, переменные, операторы."
+              "title": "Первичная настройка Git"
             }
           }
         ]
@@ -173,13 +173,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1f4403d993b10eb9",
+  "active": "81803790018bea35",
   "lastOpenFiles": [
+    "JavaScript",
+    "Pascal/2. Выражения, переменные, операторы..md",
     "Работа с разными форматами данных.md",
     "Руководство по обсидиан.md",
     "Bash/Разное.md",
     "Задачи.md",
-    "Pascal/2. Выражения, переменные, операторы..md",
     "Pascal/6. Операторы ветвления.md",
     "Pascal/1. Введение.md",
     "Pascal/4. Ввод информации и её обработка..md",
@@ -208,7 +209,6 @@
     "Python",
     "join_requests",
     "SQL/Select-запросы (DML) часть_2.md",
-    "SQL/SQL разное.md",
     "token_git",
     "Git",
     "Без названия.canvas"
