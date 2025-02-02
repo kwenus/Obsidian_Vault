@@ -11,10 +11,14 @@
             "id": "c6152b08d0895428",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "muslib.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "muslib"
             }
           }
         ]
@@ -171,6 +175,7 @@
   },
   "active": "c6152b08d0895428",
   "lastOpenFiles": [
+    "muslib.md",
     "Git/Первичная настройка Git.md",
     "JavaScript intro.md",
     "JavaScript",
@@ -203,7 +208,6 @@
     "Python/Модули/Datetime.md",
     "Python/Модули",
     "Python/Открытие ссылок.md",
-    "Python/Создание виртуальной среды.md",
     "Python",
     "join_requests",
     "token_git",
